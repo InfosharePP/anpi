@@ -2,7 +2,7 @@
 (Safety Confirmation for Microsoft Dataverse environment, built by Infoshare Inc.)
 
 <p align="center">	
-<img alt="download" src="https://img.shields.io/github/downloads/InfosharePP/CrisisCommunicationInfoshare/total?color=brightgreen.svg"/>	
+<img alt="download" src="https://img.shields.io/github/downloads/InfosharePP/anpi/total?color=brightgreen.svg"/>	
 </p>
 
 ## はじめに
@@ -64,7 +64,7 @@ COVID-19の世界的流行や集中豪雨や台風による激甚災害の頻発
 
 ## ダウンロード
 以下のリンクより最新版バージョンをダウンロードいただけます。  
-    [最新のリリースページへ移動](https://github.com/InfosharePP/CrisisCommunicationInfoshare/releases/tag/ver.2.0)
+    [最新のリリースページへ移動](https://github.com/InfosharePP/anpi/releases/tag/ver.1.0)
 
 
 ## 展開方法
