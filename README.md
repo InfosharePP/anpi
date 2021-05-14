@@ -59,7 +59,7 @@ COVID-19の世界的流行や集中豪雨や台風による激甚災害の頻発
 ![グループ単位のアプリケーション設定②](https://infoshare.co.jp/wp-content/uploads/2021/05/4_2_グループ単位のアプリケーション設定.png)
 
 **安否確認の報告および閲覧**
-![安否確認の報告および閲覧](https://infoshare.co.jp/wp-content/uploads/2021/05/5_安否確認の報告および閲覧.png)
+![安否確認の報告および閲覧](https://infoshare.co.jp/wp-content/uploads/2021/05/5_安否確認の報告・閲覧.png)
 
 
 ## ダウンロード
